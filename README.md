@@ -1,4 +1,4 @@
-<img src="./me.jpg" height=600px align="left">
+<img src="./me.jpg" height=400px align="left">
 <h1 align='center'> Hi, my name is Suzanne 😎 </h1>
 
 
