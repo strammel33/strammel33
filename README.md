@@ -1,5 +1,5 @@
 <img src="./me.jpg" height=550px align="left">
-<h1 align='center'> ⭐️ Hi my name is Suzanne 😎 </h1>
+<h1 align='center'> ⭐️ Hi, my name is Suzanne 😎 </h1>
 
 
 <p>
