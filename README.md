@@ -5,7 +5,7 @@
 <p>
   🎓 I'm a General Assembly Software Engineering Grad 
  
-  🌱 I’m currently learning all I can about MERN full stack development
+  🌱 I'm passionate about continuous learning and embracing new challenges
   
   🐶 I was previously a small animal veterinary technician and I earned a BS in Wildlife and Fisheries Biology
   
