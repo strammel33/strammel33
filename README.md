@@ -16,11 +16,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,py,django,postgres,docker,html,css,vite,vscode,aws&perline=7)](https://skillicons.dev)
 <h3>Say Hi:</h3>
- <a href="https://www.linkedin.com/in/suzanne-trammel/" target="_blank">
+ <a href="https://www.linkedin.com/in/suzanne-trammel/">
    
   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/suzanne-trammel/) 
  </a>
- <a href="https://suzanne-trammel-portfolio.netlify.app/" target="_blank"> 
+ <a href="https://suzanne-trammel-portfolio.netlify.app/"> 
    <img src="./myicon.png" height="48">
  </a>
 <!-- [![Suzanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=strammel33&theme=gotham)](https://github.com/strammel33/github-readme-stats) -->
